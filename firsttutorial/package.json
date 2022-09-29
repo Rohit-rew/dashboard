@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "express": "^4.18.1",
     "lodash": "^4.17.21"
-  }
+  },
+  "name": "firsttutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
